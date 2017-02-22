@@ -1,3 +1,4 @@
+# This is a bunch of ciphertext provided in "Cryptography Theory and Practive 3rd Edition" by Douglas R. Stinson
 ct_pairs = [
     (3781, 14409),
     (31552, 3930),
